@@ -1,0 +1,16 @@
+PASTA DE IMAGENS – ARKHÉ Landing Page
+======================================
+
+Coloque aqui a imagem principal do hero:
+
+  Arquivo: iceberg-hero.jpg
+  Pasta: assets/images/iceberg-hero.jpg
+
+Dimensões recomendadas: 900 x 700 px (ou proporção 4:3)
+Formato: JPG ou PNG
+Tamanho ideal: até 300 KB (otimize com TinyPNG ou Squoosh)
+
+A imagem deve evocar profundidade, conhecimento e aprovação.
+Sugestão: foto de iceberg, estudante focado, ou arte gráfica do método.
+
+Se não tiver a imagem ainda, o placeholder visual já aparece automaticamente.
